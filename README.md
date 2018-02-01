@@ -1,2 +1,2 @@
 # head-first-python
-head-first-python
+this is the code of <<head-first-python>>
